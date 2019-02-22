@@ -40,14 +40,14 @@
 开启CMD，跳转到 D:\oracle\Oracle定时备份服务\ 目录下
 执行 Oracle定时备份服务.exe install
 >每份自动部署服务仅能支持备份一个数据库，如果要部署多个数据库需要配置多套服务，避免服务名称相同，需要修改字段【ServiceGroup】
-
+![](install.png)
 如果需要卸载，执行 Oracle定时备份服务.exe uninstall
-
+![](uninstall.png)
 注意在打开CMD的是否需要使用管理员身份运行,否则无法安装为windows服务
 需要关闭360等安全软件
 
 在CMD中执行services.msc ,监察看下服务
-
+![](serivices.png)
 
 
 
