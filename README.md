@@ -17,9 +17,11 @@
 
  - Config/AutoConfig.config中设置参数
 ~~~
-<add key="ServiceGroup" value="0"/>
+
 <?xml version="1.0" encoding="utf-8" ?>
 <configuration>
+<!--服务分组（多个服务时需要设置）-->
+<add key="ServiceGroup" value="0"/>
 <!--数据库用户名-->
 <add key="DbUser" value="demooauser"/>
 <!--数据库密码-->
