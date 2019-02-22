@@ -8,9 +8,9 @@
    
 #使用说明
 
-1、建议把Oracle 的备份设置在 D:\oracle\bak 目录下
-2、建议把Oracle 备份服务部署在 D:\oracle\backupservice 目录下
-
+ - 建议把Oracle 的备份设置在 D:\oracle\bak 目录下
+ - 建议把Oracle 备份服务部署在 D:\oracle\backupservice 目录下
+[](shot.png)
 
 #程序简介
  - Oracle定时备份服务.exe 是主程序
