@@ -49,7 +49,7 @@
 需要关闭360等安全软件
 
 在CMD中执行services.msc ,监察看下服务
-![](serivices.png)
+![](services.png)
 
 
 
